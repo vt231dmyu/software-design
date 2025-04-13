@@ -1,0 +1,4 @@
+LOG: File log message
+ERROR: File error message
+WARNING: File warning message
+This line is written using Write (without newline). This line is written using WriteLine (with newline).
